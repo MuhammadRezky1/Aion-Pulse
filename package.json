@@ -1,0 +1,1 @@
+{\"name\":\"aion-pulse\",\"version\":\"1.0.0\",\"main\":\"src/index.ts\",\"scripts\":{\"start\":\"bun run src/index.ts\"},\"dependencies\":{\"openai\":\"^4.28.0\"}}
